@@ -1,0 +1,16 @@
+/ChatroomInfo.class
+/CmdLineArgs.class
+/ConnectionListener.class
+/CoordinateThread.class
+/Launcher.class
+/LocalChatroomInfo.class
+/MessageFactory.class
+/MessageReader.class
+/RemoteChatroomInfo.class
+/ServerCommunicatorThread.class
+/ServerInfo.class
+/ServerManager.class
+/ServerState.class
+/TokenCollector.class
+/UserInfo.class
+/UserThread.class
